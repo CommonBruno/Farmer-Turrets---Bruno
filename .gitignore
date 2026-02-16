@@ -46,11 +46,10 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
-# Binary Files
 Binaries/*
 Plugins/**/Binaries/*
-
-# Builds
+Intermediate/*
+Saved/*
 Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
